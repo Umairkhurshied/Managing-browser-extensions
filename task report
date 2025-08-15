@@ -1,0 +1,36 @@
+Task Name: Identify and Remove Suspicious Browser Extensions
+Objective: To detect and remove potentially harmful browser extensions to enhance browser security.
+
+Steps Taken:
+
+Opened the browser’s extensions/add-ons manager.
+
+Reviewed all installed extensions for necessity and legitimacy.
+
+Checked permissions, ratings, and reviews for each extension.
+
+Identified unused or suspicious extensions.
+
+Removed flagged extensions.
+
+Restarted the browser to verify performance.
+
+Researched risks associated with malicious extensions.
+
+List of Suspicious Extensions Found and Removed:
+
+Example: DarkReader
+
+Findings:
+
+Unnecessary or suspicious extensions often request excessive permissions (e.g., access to all browsing data).
+
+Poorly rated or unverified extensions pose security risks.
+
+Best Practices Learned:
+
+Install extensions only from trusted sources (e.g., official Chrome Web Store, Mozilla Add-ons).
+
+Regularly audit and remove unused extensions.
+
+Be cautious with extensions requesting unnecessary permissions.
